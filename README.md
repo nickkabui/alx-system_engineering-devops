@@ -1,1 +1,1 @@
-Shell permissions
+script that prints “Hello, World"
